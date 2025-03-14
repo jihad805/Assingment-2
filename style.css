@@ -146,7 +146,7 @@
     max-width: 1200px;
     margin: 0 auto;
     position: relative;
-    top: 40px;
+    top: 60px;
     display: grid;
     gap: 20px;
     grid-template-columns: repeat(3, 1fr);
@@ -170,6 +170,8 @@
     left: 30px;
     font-weight: bold;
 }
+
+
 .absolute .pri{
     top: 500px;
 }
