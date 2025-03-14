@@ -423,7 +423,8 @@
   }
 
   .footer{
-    margin-top: 1300px;
+    margin-top: 1400px;
+    width: 100%;
   }
   .footer-text h1{
     font-size: 20px;
@@ -436,11 +437,12 @@
     top: -140px;
     right: 50px;
   }
- 
+
 .footer-right .img img{
+
   height: 50px;
   position: relative;
-  top: 200px;
+  top: 100px;
   right: 200px;
 }
   
