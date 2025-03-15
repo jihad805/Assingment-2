@@ -353,11 +353,11 @@
     top: 200px;
 }
 @media (max-width: 768px){
-  .navbar{
+  .navbar ul li a{
     display: none;
   }
   .booking-con .border1{
-    padding: 10px;
+    padding: 2px;
     position: relative;
     top: -10px;
     margin-left: 100px;
@@ -366,15 +366,18 @@
   }
   .booking-con .border2{
     position: relative;
-    top: 50px;
+    top: 30px;
+    left: 10px;
+    padding: 2px 2px;
   }
   .booking-con .lab{
     display: none;
   }
   .booking-con .button{
-    top: 120px;
+    top: 79px;
      left: -200px;
-     height: 50px;
+     height: 40px;
+     font-size: 10px
   }
   .container-section{
     background-color: transparent;
@@ -445,6 +448,13 @@
   top: 100px;
   right: 200px;
 }
+.footer-botoom span{
+    position: relative;
+   ;
+}  
+.footer-botoom{
+    background-color: black;
+} 
   
 }
 
